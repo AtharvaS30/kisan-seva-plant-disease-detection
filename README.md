@@ -30,7 +30,7 @@ A machine learning project that detects plant diseases using Transfer Learning w
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Install dependencies:
    ```
@@ -50,6 +50,6 @@ This project was built to explore machine learning and transfer learning techniq
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Atharva Shivade
